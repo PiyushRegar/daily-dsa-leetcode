@@ -3,7 +3,8 @@ Daily DSA LeetCode A repository documenting my daily journey of solving Data Str
 
 🌟 Let's Connect
 LeetCode Profile: https://leetcode.com/u/Piyushregar_/
-Twitter: Piyush_regar_
+
+Twitter: https://x.com/Piyush_regar_
 
 🚀 Stay tuned for daily updates!
 This repository is updated regularly with new solutions and learnings. Follow my journey and feel free to contribute or provide feedback!
