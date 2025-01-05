@@ -1,7 +1,15 @@
-#include <iostream>
-#include <vector>
+# LeetCode Problem 540: Single Element in a Sorted Array
 
+## Problem Description
+You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once. Find this single element that appears only once.
+
+Your solution must run in `O(log n)` time and use `O(1)` extra space.
+
+
+//This solution uses a binary search approach to achieve an `O(log n)` time complexity. The algorithm checks if the mid-point satisfies the unique element condition or adjusts the search range based on the sorted array's property.
 // --- here is the leetcode 540 solution of my code ---------
+
+
 
 
 class Solution {
